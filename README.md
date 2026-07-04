@@ -16,7 +16,10 @@ A local AI-powered SIEM pipeline built in Python. Uses a high-speed regex filter
 ### 3. Forensic Persistence & RAG (Retrieval-Augmented Generation)
 * **Data Tier:** Saves verified security alerts into an optimized local SQLite schema (`siem_history.db`).
 * **Contextual Injection:** Dynamically filters, aggregates, and injects historical database telemetry rows directly into active LLM prompt memory buffers to allow context-aware operational review.
-
+  
+### 4. Interactive Interface & Alerting (Discord Integration)
+* **Autonomous Webhook Dispatch (`siem_shipper.py`):** Utilizes outbound HTTP POST payloads to transmit structured, color-coded JSON rich embed notification cards instantly to an incident response channel upon threat verification.
+* **Asynchronous Command Gateway (`soc_bot.py`):** Establishes a persistent, two-way connection to the Discord Gateway using `discord.ext.commands`. This enables the script to intercept privileged message intents (like `!summary` or `!investigate`) and route them straight to the local RAG engine.
 ---
 
 ## 📦 Project Structure
