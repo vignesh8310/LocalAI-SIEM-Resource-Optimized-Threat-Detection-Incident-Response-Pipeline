@@ -45,7 +45,8 @@ Type these commands directly inside your connected Discord server text channel t
 
 
 ### Live System Alerts
-<img width="457" height="563" alt="Screenshot 2026-07-04 103518" src="https://github.com/user-attachments/assets/48b0885e-2681-4f90-ae8b-d056b9e38c59" />
+<img width="1469" height="1017" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/d3169a55-2244-436b-ad8d-7ff176cd3048" />
+
 
 ### Interactive Query Interface
 <img width="1920" height="1080" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/c8c89f3e-a79f-4153-b9b5-d6adc28acdcf" />
