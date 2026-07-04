@@ -45,16 +45,24 @@ Type these commands directly inside your connected Discord server text channel t
 
 
 ### Live System Alerts
+
 <img width="1469" height="1017" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/d3169a55-2244-436b-ad8d-7ff176cd3048" />
+
+---
 
 
 ### Interactive Query Interface
-<img width="1920" height="1080" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/c8c89f3e-a79f-4153-b9b5-d6adc28acdcf" />
-<img width="1920" height="1080" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/bb9e961e-26e3-4edd-b283-08cc96efc0f4" />
-<img width="1432" height="587" alt="Screenshot 2026-07-04 111908" src="https://github.com/user-attachments/assets/d8304a78-7358-4bcd-a759-414ebb634e2c" />
-<img width="1920" height="1080" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/dd661b16-087d-4645-b5a0-5c49dac832d9" />
+
+<img width="1454" height="1021" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/832d08e8-fc12-47f1-894b-a31c92e2d741" />
+<img width="1432" height="587" alt="Screenshot 2026-07-04 111908" src="https://github.com/user-attachments/assets/cc84c9fd-422c-445a-b345-7cad22ef383a" />
+<img width="1462" height="1014" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/b86a6447-2b2f-48d7-b0a3-cfe3e59d79f2" />
+<img width="1473" height="1014" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/f6042e4a-b632-4183-a942-3a7acf6a8913" />
+
+
+---
 
 ### Runtime Execution Logs (Local Host Terminal)
+
 <img width="1915" height="957" alt="Screenshot 2026-07-04 114037" src="https://github.com/user-attachments/assets/5f03c435-8455-45a6-95ed-7c8c9839f4d0" />
 <img width="1897" height="572" alt="Screenshot 2026-07-04 113942" src="https://github.com/user-attachments/assets/946428f4-e55d-4684-a6d6-f40656925cb7" />
 
